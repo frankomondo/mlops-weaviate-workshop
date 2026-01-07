@@ -1,6 +1,6 @@
 # mlops-weaviate-workshop
 # **Setting Up Weaviate Workshop**
-
+ 
 ## **Getting API Keys:**
 
 ### **1. Weaviate Cloud:**
